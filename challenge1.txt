@@ -1,0 +1,13 @@
+Hello world
+
+
+
+
+1. Add folder challenge1, add file in it and modify/update.
+2. run "git init" - The git init command creates a new Git repository
+2. run "git add ." command - adds a change in the working directory to the staging area.
+3. run "git status" - displays the state of the working directory and the staging area.
+3. run "git commit -m "Initial commit"" - Commit a snapshot of all changes in the working directory
+4. Open Github Desktop. Click on curent repository we are working, select Add Existing Repository. select the current folder and click add repository.
+5. Click on publish repository on github desktop
+6. 
